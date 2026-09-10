@@ -1,0 +1,1903 @@
+#EXTM3U
+#EXTINF:36,AE HD
+#EXTVLCOPT:network-caching=1000
+http://45.190.28.50/AE_HD/index.m3u8
+#EXTINF:25,Adrenalina Pura TV
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
+#EXTINF:36,Adult Swim Latin America Brazil (720p)
+#EXTVLCOPT:network-caching=1000
+http://45.190.28.50/TRUTV_HD/index.m3u8
+#EXTINF:20,Arte 1 (720p)
+#EXTVLCOPT:network-caching=1000
+http://45.162.64.114/ARTE1/index.m3u8
+#EXTINF:25,Avatar: A lenda de Aang
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8
+#EXTINF:36,AXN HD
+#EXTVLCOPT:network-caching=1000
+http://45.190.28.50/AXN_HD/index.m3u8
+#EXTINF:8,BAND HD
+#EXTVLCOPT:network-caching=1000
+http://45.190.28.50/BAND_HD/index.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8
+#EXTINF:25,Bob Esponja Calça Quadrada (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
+#EXTINF:23,BR8 TV
+#EXTVLCOPT:network-caching=1000
+https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
+#EXTINF:20,Futura HD
+#EXTVLCOPT:network-caching=1000
+http://45.162.64.114/FUTURA/index.m3u8
+#EXTINF:21,TV BRASIL 2
+#EXTVLCOPT:network-caching=1000
+http://45.177.114.115/TV_BRASIL_2/index.m3u8
+#EXTINF:7203,Canal UOL (1080p)
+#EXTVLCOPT:network-caching=1000
+https://video24.mais.uol.com.br/live/6146.m3u8
+#EXTINF:0,CazeTV (1080i)
+#EXTVLCOPT:network-caching=1000
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:25,Comedy Central Pluto TV
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
+#EXTINF:25,Comedy Central South Park
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
+#EXTINF:25,CSI: Miami
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
+#EXTINF:18,https://fpa-gateway.tvcultura.com.br:8181/606caef0-a290-413d-9f1f-8fcdb3a73831/oembed.json
+#EXTVLCOPT:network-caching=1000
+https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
+#EXTINF:25,Detetives Médicos
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8
+#EXTINF:25,Diff’rent Strokes Arnold
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
+#EXTINF:11,ESPN (1080p)
+#EXTVLCOPT:network-caching=1000
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:25,FailArmy
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8
+#EXTINF:36,FASHION TV
+#EXTVLCOPT:network-caching=1000
+http://45.190.28.50/FASHION_TV_HD/index.m3u8
+#EXTINF:120,FIFA+ Portuguese (720p)
+#EXTVLCOPT:network-caching=1000
+https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+#EXTINF:25,Filmes Suspense
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
+#EXTINF:20,Futura HD
+#EXTVLCOPT:network-caching=1000
+http://168.197.104.22/FUTURA/index.m3u8
+#EXTINF:60,ge Fast (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,GloboNews (720p)
+#EXTVLCOPT:network-caching=1000
+http://177.52.24.163/GLOBO-NEWS-HD/index.m3u8
+#EXTINF:0,Globoplay Novelas (1080p)
+#EXTVLCOPT:network-caching=1000
+http://170.82.202.31/Viva/index.m3u8
+#EXTINF:0,GNT (1080p)
+#EXTVLCOPT:network-caching=1000
+http://170.82.202.31/GNT/index.m3u8
+#EXTINF:16,History (720p)
+#EXTVLCOPT:network-caching=1000
+http://45.177.114.114/HISTORY/index.m3u8
+#EXTINF:22,History 2 Latin America Brazil (720p)
+#EXTVLCOPT:network-caching=1000
+http://45.177.114.114/HISTORY_2/index.m3u8
+#EXTINF:25,Jornada nas Estrelas A Nova Geração
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8
+#EXTINF:25,Jornada nas Estrelas Deep Space Nine
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8
+#EXTINF:25,Jornada nas Estrelas Voyager
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8
+#EXTINF:25,Kenan & Kel
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
+#EXTINF:114,L!ke (1080p)
+#EXTVLCOPT:network-caching=1000
+https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8
+#EXTINF:0,Lifetime Latin America Brazil (720p)
+#EXTVLCOPT:network-caching=1000
+http://138.255.2.6:8084/LIFETIME/index.m3u8
+#EXTINF:25,MacGyver
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
+#EXTINF:25,MasterChef
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
+#EXTINF:0,MCM Top (1080p)
+#EXTVLCOPT:network-caching=1000
+http://89.33.29.118/MCM/index.m3u8
+#EXTINF:0,Megapix (720p)
+#EXTVLCOPT:network-caching=1000
+http://177.52.24.163/MEGAPIX-HD/index.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8
+#EXTINF:25,MTV Biggest Pop (1080p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
+#EXTINF:25,MTV Catfish (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8
+#EXTINF:25,MTV Com o Ex
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8
+#EXTINF:25,MTV Dating
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8
+#EXTINF:25,MTV Jovens e Mães (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8
+#EXTINF:25,MTV Pluto TV
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
+#EXTINF:25,MTV Reality (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
+#EXTINF:25,MTV Rupaul's Drag Race
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8
+#EXTINF:25,MTV Shore
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
+#EXTINF:60,MyTime Movie Network Brazil (720p)
+#EXTVLCOPT:network-caching=1000
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:25,Naruto
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
+#EXTINF:25,NCIS
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
+#EXTINF:64,Nickelodeon (480p)
+#EXTVLCOPT:network-caching=1000
+https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
+#EXTINF:25,Nickelodeon Clássico (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
+#EXTINF:25,Nickelodeon iCarly
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
+#EXTINF:25,Nickelodeon Teen (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
+#EXTINF:25,Nickelodeon Toons (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
+#EXTINF:30,NickOnline HD (720p)
+#EXTVLCOPT:network-caching=1000
+https://x1colegal.com/hls/stream.m3u8
+#EXTINF:64, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Animation;Kids" - NickToons Brasil (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+#EXTINF:25,Numbers
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8
+#EXTINF:25,O Encantador de Cães
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
+#EXTINF:25,One Piece
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8
+#EXTINF:31,Petlovers TV
+#EXTVLCOPT:network-caching=1000
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+#EXTINF:20,Play TV (720p)
+#EXTVLCOPT:network-caching=1000
+http://45.162.64.114/PLAY_TV/index.m3u8
+#EXTINF:24,Pluto TV Aliens
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8
+#EXTINF:25,Pluto TV Animais
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
+#EXTINF:25,Pluto TV Anime
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
+#EXTINF:25,Pluto TV Anime Ação
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-604b79c558393100078faeef.m3u8
+#EXTINF:25,Pluto TV Bang Bang
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8
+#EXTINF:25,Pluto TV Cine Clássicos
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
+#EXTINF:25,Pluto TV Cine Comédia
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
+#EXTINF:25,Pluto TV Cine Comédia Romântica
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8
+#EXTINF:25,Pluto TV Cine Crime
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8
+#EXTINF:25,Pluto TV Cine Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8
+#EXTINF:25,Pluto TV Cine Família
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
+#EXTINF:25,Pluto TV Cine Inspiração
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8
+#EXTINF:25,Pluto TV Cine Romance
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
+#EXTINF:25,Pluto TV Cine Sucessos
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
+#EXTINF:25,Pluto TV Cine Terror
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
+#EXTINF:25,Pluto TV Cozinha
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8
+#EXTINF:25,Pluto TV Desenhos Clássicos
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
+#EXTINF:25,Pluto TV Esportes
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
+#EXTINF:25,Pluto TV Ficção Científica
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
+#EXTINF:25,Pluto TV Filmes Ação
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
+#EXTINF:25,Pluto TV Filmes Aventura
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8
+#EXTINF:25,Pluto TV Filmes de Luta
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
+#EXTINF:25,Pluto TV História
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8
+#EXTINF:25,Pluto TV Investigação
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
+#EXTINF:25,Pluto TV Karaokê por Stingray (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8
+#EXTINF:25,Pluto TV KFOOD
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
+#EXTINF:25,Pluto TV Kids
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8
+#EXTINF:25,Pluto TV Kids Club
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8
+#EXTINF:24,Service
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8
+#EXTINF:25,Pluto TV Mistérios
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
+#EXTINF:25,Pluto TV Natureza
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
+#EXTINF:25,Pluto TV Negócio Fechado
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8
+#EXTINF:25,Pluto TV Netmovies
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8
+#EXTINF:0,Pluto TV Novelas
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
+#EXTINF:0,Pluto TV Paisagens por Stingray (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8
+#EXTINF:0,Pluto TV Policial
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8
+#EXTINF:0,Pluto TV Record News (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8
+#EXTINF:0,Pluto TV Retrô
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
+#EXTINF:0,Pluto TV Séries Ação
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6474ab1da51cb80008bfb5f4.m3u8
+#EXTINF:0,Pluto TV Séries Comédia
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8
+#EXTINF:0,Pluto TV Séries Criminais
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8
+#EXTINF:0,Pluto TV Séries Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8
+#EXTINF:0,Pluto TV Séries Novelescas
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8
+#EXTINF:0,Pluto TV Séries Sci-Fi
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
+#EXTINF:0,Pluto TV Shows por Stingray (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
+#EXTINF:0,Pluto TV Star Trek
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
+#EXTINF:0,Pluto TV Terror Trash
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8
+#EXTINF:0,Pluto TV Turbo
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
+#EXTINF:0,Pluto TV Viagens
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8
+#EXTINF:0,Pluto TV Vida Real
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8
+#EXTINF:0,Primer TV (1080p)
+#EXTVLCOPT:network-caching=1000
+http://200.194.238.229:8383/live/primer/playlist.m3u8
+#EXTINF:0,Pronto-socorro: Histórias De Emergência
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
+#EXTINF:0,Record (720p)
+#EXTVLCOPT:network-caching=1000
+http://45.190.28.50/RECORD/index.m3u8
+#EXTINF:0,Record News (720p)
+#EXTVLCOPT:network-caching=1000
+http://45.162.64.114/RECORD_NEWS/index.m3u8
+#EXTINF:0,Red Bull TV BR (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
+#EXTINF:0,Rede Brasil (1080p)
+#EXTVLCOPT:network-caching=1000
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:0,Rede Globo (720p)
+#EXTVLCOPT:network-caching=1000
+http://138.255.2.6:8084/GLOBOHD/index.m3u8
+#EXTINF:0,Rede TV! (1080p)
+#EXTVLCOPT:network-caching=1000
+http://45.190.28.50/REDE_TV_HD/index.m3u8
+#EXTINF:0,Rede TV! Mais
+#EXTVLCOPT:network-caching=1000
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
+#EXTINF:0,SBT Nacional (720p)
+#EXTVLCOPT:network-caching=1000
+http://45.190.28.50/SBT_HD/index.m3u8
+#EXTINF:0,SBT News (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
+#EXTINF:0,Series Classic (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8
+#EXTINF:0,Smithsonian Channel Pluto TV
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
+#EXTINF:0,Sony Channel (720p)
+#EXTVLCOPT:network-caching=1000
+http://45.190.28.50/SONY_HD/index.m3u8
+#EXTINF:0,Sony Movies (720p)
+#EXTVLCOPT:network-caching=1000
+http://45.162.64.114/SONY_MOVIES/index.m3u8
+#EXTINF:0,South Park: Coleção Cartman
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8
+#EXTINF:0,South Park: Coleção Kenny
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8
+#EXTINF:0,South Park: Coleção Kyle
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8
+#EXTINF:0,South Park: Coleção Stan
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8
+#EXTINF:0,SporTV 3 (720p)
+#EXTVLCOPT:network-caching=1000
+http://170.83.49.66:8083/SPORTV3HD/index.m3u8
+#EXTINF:0,Studio Universal Latin America Brazil (720p)
+#EXTVLCOPT:network-caching=1000
+http://187.102.210.46/universo/index.m3u8
+#EXTINF:25,Tastemade (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
+#EXTINF:0,TCM 10 HD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:0,The Pet Collective (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
+#EXTINF:0,Times Brasil (720p)
+#EXTVLCOPT:network-caching=1000
+http://45.190.28.50/CNBC/index.m3u8
+#EXTINF:0,TNT Novelas Brazil (720p)
+#EXTVLCOPT:network-caching=1000
+http://45.162.64.114/TNT_NOVELAS/index.m3u8
+#EXTINF:0,Tokusato
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
+#EXTINF:54,Trace Brasil (1080p)
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
+#EXTINF:0,Travel Box Brazil (720p)
+#EXTVLCOPT:network-caching=1000
+http://45.190.28.50/TRAVEL_BOX_HD/index.m3u8
+#EXTINF:0,Turma da Mônica (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8
+#EXTINF:0,TV Brasil (720p)
+#EXTVLCOPT:network-caching=1000
+http://45.162.64.114/TV_BRASIL/index.m3u8
+#EXTINF:0,TV Câmara (1080p)
+#EXTVLCOPT:network-caching=1000
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:0,TV Cultura (720p)
+#EXTVLCOPT:network-caching=1000
+http://45.162.64.114/TV_CULTURA/index.m3u8
+#EXTINF:0,TV das Artes (360p)
+#EXTVLCOPT:network-caching=1000
+http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/playlist.m3u8
+#EXTINF:0,TV Globo Rio de Janeiro (720p)
+#EXTVLCOPT:network-caching=1000
+http://45.190.28.50/GLOBO_HD/index.m3u8
+#EXTINF:0,TV Globo Sao Paulo (720p)
+#EXTVLCOPT:network-caching=1000
+http://170.84.165.204/Globo_HD/index.m3u8
+#EXTINF:0,TV Life America (720p)
+#EXTVLCOPT:network-caching=1000
+https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
+#EXTINF:0,TV Ra Tim Bum (720p)
+#EXTVLCOPT:network-caching=1000
+http://45.177.114.115/TV_RA_TIM_BUM/index.m3u8
+#EXTINF:0,TV Series 1 As Panteras (480p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:0,TV+Pet
+#EXTVLCOPT:network-caching=1000
+https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+#EXTINF:0,TVE Cultura (720p)
+#EXTVLCOPT:network-caching=1000
+http://45.190.28.50/TVE/index.m3u8
+#EXTINF:0,TVMatic Comedy (720p)
+#EXTVLCOPT:network-caching=1000
+http://cdn.tvmatic.net/comedy.m3u8
+#EXTINF:0,TVMatic Crafts (720p)
+#EXTVLCOPT:network-caching=1000
+http://cdn.tvmatic.net/crafts.m3u8
+#EXTINF:0,TVMatic Facebook (720p)
+#EXTVLCOPT:network-caching=1000
+http://cdn.tvmatic.net/facebook.m3u8
+#EXTINF:0,TVMatic Fight (720p)
+#EXTVLCOPT:network-caching=1000
+http://cdn.tvmatic.net/fight.m3u8
+#EXTINF:0,TVMatic Funny (720p)
+#EXTVLCOPT:network-caching=1000
+http://cdn.tvmatic.net/funny.m3u8
+#EXTINF:0,TVMatic TikTok (720p)
+#EXTVLCOPT:network-caching=1000
+http://cdn.tvmatic.net/tiktok.m3u8
+#EXTINF:0,VEJA+ TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
+#EXTINF:20,WooHoo (720p)
+#EXTVLCOPT:network-caching=1000
+http://45.162.64.114/WOOHOO/index.m3u8
+#EXTINF:60,3ABN Canada (720p)
+#EXTVLCOPT:network-caching=1000
+https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
+#EXTINF:25,48 Hours
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8
+#EXTINF:40,A&E (720p)
+#EXTVLCOPT:network-caching=1000
+http://23.239.31.26:8989/aande/index.m3u8
+#EXTINF:25,America's Next Top Model
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-68679fc6bb46d0bdd38ac9a4.m3u8
+#EXTINF:54,Autentic History (1080p)
+#EXTVLCOPT:network-caching=1000
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+#EXTINF:60,Autentic Travel (1080p)
+#EXTVLCOPT:network-caching=1000
+https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6310cbee5a8ad300070fdb7c.m3u8
+#EXTINF:394,Canal Savoir (360p)
+#EXTVLCOPT:network-caching=1000
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:25,Catfish
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-64f8a2a23a0d700008a6ed7b.m3u8
+#EXTINF:0,CBC News (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8
+#EXTINF:1796,CityNews Toronto (720p)
+#EXTVLCOPT:network-caching=1000
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+#EXTINF:25,Comedy Central
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
+#EXTINF:0,Cottage Life (720p)
+#EXTVLCOPT:network-caching=1000
+http://185.246.209.113/CottageLife/index.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62e922f6675f71000736db3b.m3u8
+#EXTINF:57,FilmRise Anime (720p)
+#EXTVLCOPT:network-caching=1000
+https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62e917b5e354cf0007b97a67.m3u8
+#EXTINF:25,HauntTV CA (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63934c218ef524000757b122.m3u8
+#EXTINF:0,I Love Lucy
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63a2f1dda0d69700078b7cba.m3u8
+#EXTINF:24,Ink Master
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-655f2d713944b60008bc7e90.m3u8
+#EXTINF:60,INWILD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
+#EXTINF:25,JAG
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8
+#EXTINF:59,Love Nature (1080p)
+#EXTVLCOPT:network-caching=1000
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62ea43aa0c43540007f2db96.m3u8
+#EXTINF:25,More Pluto TV Comedy
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62e91c3add66e00007eeb24c.m3u8
+#EXTINF:25,MovieSphere by Lionsgate
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-64a3d96f060e830008af6745.m3u8
+#EXTINF:26,MTV Biggest Pop (1080p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8
+#EXTINF:0,MTV Dating
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-64f8a0c230ab3300084369b8.m3u8
+#EXTINF:0,MTV Jersey Shore
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-68b9b0dbf9cf3d7cb9f56d88.m3u8
+#EXTINF:0,MTV Reality
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-64f89fcfd661bb00081ba45c.m3u8
+#EXTINF:0,MTV Ridiculousness
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-64f9cccf110545000837912e.m3u8
+#EXTINF:0,MTV Spankin’ New (1080p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
+#EXTINF:25,Nash Bridges (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-666021cccb3ea10008406866.m3u8
+#EXTINF:25,Nashville
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65cf8d7428730900087c5907.m3u8
+#EXTINF:0,NCIS
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62f4f5de1c100100075665ef.m3u8
+#EXTINF:0,NCIS: Los Angeles
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8
+#EXTINF:0,Nick Jr. Pluto TV
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
+#EXTINF:0,NickToons
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
+#EXTINF:0,One Piece
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62e94ec74823db0007277a8f.m3u8
+#EXTINF:8,Outdoor Channel HD (720p)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
+#EXTINF:0,PBS Travel (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8
+#EXTINF:25,Perry Mason
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63e20bd160bc8f0008b4c949.m3u8
+#EXTINF:25,Pluto Classic Movie Westerns
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66dad50215d2c60008d7afbd.m3u8
+#EXTINF:0,Pluto TV Action Movies
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62ea3c2e4823db00072788ed.m3u8
+#EXTINF:0,Pluto TV Adventure
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-653bdb0fbdf3cf00089cc395.m3u8
+#EXTINF:0,Pluto TV Anime
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-68d25b620a0f3829b116bb6f.m3u8
+#EXTINF:0,Pluto TV British Comedy
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-638e11951177840007fdd6b2.m3u8
+#EXTINF:0,Pluto TV Cars
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-69c592dff0f1a7d732dc6e36.m3u8
+#EXTINF:0,Pluto TV Classic TV Families
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62e91af00c43540007f2bb43.m3u8
+#EXTINF:0,Pluto TV Classic TV Variety
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-68d25c623175a2780d051d3a.m3u8
+#EXTINF:0,Pluto TV Comedy
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62e92178946c8000079a3160.m3u8
+#EXTINF:0,Pluto TV Comedy Movies
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8
+#EXTINF:0,Pluto TV Crime Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62e92708a7ce600007b2676a.m3u8
+#EXTINF:0,Pluto TV Drama Movies
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62bdb0bcd707b9000739d2e5.m3u8
+#EXTINF:0,Pluto TV FBI
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-693adae77f21340ef9746f56.m3u8
+#EXTINF:0,Pluto TV Horror
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8
+#EXTINF:0,Pluto TV MTV Classic (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
+#EXTINF:0,Pluto TV Paranormal
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8
+#EXTINF:0,Pluto TV Reality
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-67922858b83355184c699699.m3u8
+#EXTINF:0,Pluto TV Retro Action Movies
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-69a9ae4d3bd16a4ed04240d7.m3u8
+#EXTINF:0,Pluto TV Retro Crime Action
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-69aee8a1acb7eb0bb68df641.m3u8
+#EXTINF:0,Pluto TV Retro Crime Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-630f1e6073bd1800082107f0.m3u8
+#EXTINF:0,Pluto TV Retro Kid
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6408b41b83f58900081d91ad.m3u8
+#EXTINF:0,Pluto TV Sci-fi
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
+#EXTINF:0,Pluto TV Snooker 900
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8
+#EXTINF:0,Pluto TV True Crime
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8
+#EXTINF:0,Pluto TV Westerns
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8
+#EXTINF:25,Puto TV Classic TV Crime Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-696e61287d2afdec4ff2cb75.m3u8
+#EXTINF:66,Qello Concerts by Stingray (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:25,Rawhide
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8
+#EXTINF:0,Red Bull TV US (1080p)
+#EXTVLCOPT:network-caching=1000
+https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
+#EXTINF:0,South Park
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8
+#EXTINF:0,South Park: Welcome to Canada!
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-663115d923e24f000843b49c.m3u8
+#EXTINF:25,SpongeBob SquarePants (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63f87d057533d80008ab9549.m3u8
+#EXTINF:56,Stingray Cityscapes (1080p)
+#EXTVLCOPT:network-caching=1000
+https://aka-live1050.delivery.roku.com/7572d640-7373-4137-8b14-a3afff395349/t2-origin/out/v1/live.m3u8
+#EXTINF:0,Stingray Classic Rock (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Classica (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Cozy Cafe (1080p)
+#EXTVLCOPT:network-caching=1000
+https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-origin/out/v1/live.m3u8
+#EXTINF:0,Stingray DJAZZ (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Easy Listening (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Flashback 70s (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Hit List (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Holiday Hits (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Holidayscapes (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d10cyxntpn0bwm.cloudfront.net/master.m3u8
+#EXTINF:0,Stingray Hot Country (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray iConcerts HD
+#EXTVLCOPT:network-caching=1000
+https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
+#EXTINF:0,Stingray Jukebox Oldies (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Karaoke (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Movie Music (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Naturescape (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Nothin' But 90s (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Pop Adult (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Remember the 80s (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Remember the 80s
+#EXTVLCOPT:network-caching=1000
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8
+#EXTINF:0,Stingray Rock Alternative (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Romance Latino (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Smooth Jazz (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Soul Storm (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray The Spa (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Today's KPOP (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray Today's Latin Pop (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,Stingray ZenLIFE (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62e9145ec07f2a00070e68dc.m3u8
+#EXTINF:0,The Beverly Hillbillies
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6565fefdc917a50008485cc6.m3u8
+#EXTINF:25,The Challenge
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-64f8a22a3efb510008245df0.m3u8
+#EXTINF:25,The Conners
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66e2a94d167a8b000813485d.m3u8
+#EXTINF:0,The Graham Norton Show (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,The Judge Judy Channel
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62e92e536f28870007fa9b3a.m3u8
+#EXTINF:25,The New Detectives
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62bdabbc5611f2000761ca30.m3u8
+#EXTINF:25,The Price is Right (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-64c2214c2a7f2200089a0c4b.m3u8
+#EXTINF:0,The Weather Network (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
+#EXTINF:25,Three's Company (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-64ca723a2bc49300081a8966.m3u8
+#EXTINF:54,Total Crime (1080p)
+#EXTVLCOPT:network-caching=1000
+https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
+#EXTINF:0,Totally Turtles (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62e95265c9fd030007268fb9.m3u8
+#EXTINF:0,Transformers
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63da36dea995710008727d4d.m3u8
+#EXTINF:119,Wild TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+#EXTINF:0,Willow Sports (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
+#EXTINF:54,XITE 90's Throwback (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
+#EXTINF:0,XITE Nuevo Latino (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
+#EXTINF:0,XITE Siempre Latino (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
+#EXTINF:25,Yo! MTV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8
+#EXTINF:25,5 Cops
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d2c571faeb3e2738ae27933.m3u8
+#EXTINF:60,Adventure Earth (1080p)
+#EXTVLCOPT:network-caching=1000
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+#EXTINF:25,Andromeda
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5e8db96bccae160007c71eec.m3u8
+#EXTINF:25,Anthony Bourdain: Parts Unknown
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8
+#EXTINF:25,Auction Hunters
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62ac50e92c48f900071444c9.m3u8
+#EXTINF:60,Autentic History (1080p)
+#EXTVLCOPT:network-caching=1000
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+#EXTINF:60,Autentic Travel (1080p)
+#EXTVLCOPT:network-caching=1000
+https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
+#EXTINF:7200,BBC News (1080p)
+#EXTVLCOPT:network-caching=1000
+https://xemzi.short.gy/1000015
+#EXTINF:25,BET Pluto TV
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-604f8f8622166000071a929f.m3u8
+#EXTINF:25,Beyond Belief: Fact or Fiction
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-611f85396abc84000738417b.m3u8
+#EXTINF:25,Bondi Rescue
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-660be37e7bcd860008793a6a.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6960c5a906d76f50db2816dc.m3u8
+#EXTINF:25,Catfish
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-625eaebc2a73a00007d3f855.m3u8
+#EXTINF:96,Clubbing TV UK (720p)
+#EXTVLCOPT:network-caching=1000
+https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
+#EXTINF:60,CNBC (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:25,CSI: Crime Scene Investigation
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6304f8d5ffb61000071ab478.m3u8
+#EXTINF:60,Deadly Women (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d1mgh147xpmgs8.cloudfront.net/DeadlyWomen_GB.m3u8
+#EXTINF:54,Dog The Bounty Hunter [Geo-blocked] (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg00276-amg00276c11-rakuten-uk-3446.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunterall-rakutenuk/playlist.m3u8
+#EXTINF:25,Dynasty
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-622f48de713e510007f85808.m3u8
+#EXTINF:28,ENT Channel (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:33,ENT Family (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:54,FailArmy (720p)
+#EXTVLCOPT:network-caching=1000
+https://failarmy-international-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:25,FBI Files
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62bdaa32a1b2fd00076693e8.m3u8
+#EXTINF:25,FIFA+ (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8
+#EXTINF:54,FIFA+ Women (720p)
+#EXTVLCOPT:network-caching=1000
+https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
+#EXTINF:25,Funny AF
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8
+#EXTINF:25,Geordie Shore
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65c4960d11ced7000812c433.m3u8
+#EXTINF:60,Get.Factual (720p)
+#EXTVLCOPT:network-caching=1000
+https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-619e1bb3e9af5a0007f235ad.m3u8
+#EXTINF:0,Ghost Hunters (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,Hell's Kitchen (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellskitchen-samsung/playlist.m3u8
+#EXTINF:12,Hobby Maker (720p)
+#EXTVLCOPT:network-caching=1000
+https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
+#EXTINF:60,Homes Under The Hammer (720p)
+#EXTVLCOPT:network-caching=1000
+https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:25,Homicide Hunter
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-619e21b213ef6b0007d8c17a.m3u8
+#EXTINF:60,Horse & Country TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+#EXTINF:54,Inside Crime (1080p)
+#EXTVLCOPT:network-caching=1000
+https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:25,JAG
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-660e5dc60cd4630008f6198a.m3u8
+#EXTINF:25,Judge Judy
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-622f498d119b4c000719c0b7.m3u8
+#EXTINF:25,More TV Crime
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-639b558c73423d00071ce624.m3u8
+#EXTINF:25,More TV Sci-fi
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8
+#EXTINF:0,Most Haunted (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg00426-lds-amg00426c17-samsung-gb-10157.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:54,MovieSphere UK (1080p)
+#EXTVLCOPT:network-caching=1000
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:0,Mr Bean Live Action (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:54,Mystery TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0,Mythbusters (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-samsungau/playlist.m3u8
+#EXTINF:36,MyTime Movie Network (1080p)
+#EXTVLCOPT:network-caching=1000
+https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0,NatureTime (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:120,NBC News NOW (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
+#EXTINF:25,Nosey
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dc2ba1a9c91420009db4858.m3u8
+#EXTINF:54,NOW Rock (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:25,On the Case
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62cd971cec90c20007081050.m3u8
+#EXTINF:25,Paranormal State
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-60804d85858bd00007c5d591.m3u8
+#EXTINF:25,Pluto TV 80's Action
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66d717d2abec540008ba7ec4.m3u8
+#EXTINF:0,Pluto TV Action
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dbfeb961b411c00090b52b3.m3u8
+#EXTINF:0,Pluto TV Alien Invasion
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6462190b7cb4b1000862dd60.m3u8
+#EXTINF:0,Pluto TV American True Crime
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-692ebafce72f03e07e7df985.m3u8
+#EXTINF:0,Pluto TV Animals
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ddf8ea0d000120009bcad83.m3u8
+#EXTINF:0,Pluto TV Animation
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-612f761008a9e50007984ba0.m3u8
+#EXTINF:0,Pluto TV Britain at War
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-625e8cb585ef320007806caf.m3u8
+#EXTINF:0,Pluto TV Classic TV
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d134a74ca91eedee1630faa.m3u8
+#EXTINF:0,Pluto TV Comedy Movies
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5c363c2411c5ca053f198f97.m3u8
+#EXTINF:0,Pluto TV Conspiracy
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8
+#EXTINF:0,Pluto TV Crime
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d767790d0438aceb41d03ae.m3u8
+#EXTINF:0,Pluto TV Crime Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65a6a7a00c7ff50008cba07b.m3u8
+#EXTINF:0,Pluto TV Cult Films
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5c5c31f2f21b553c1f673fb0.m3u8
+#EXTINF:0,Pluto TV Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ddf91149880d60009d35d27.m3u8
+#EXTINF:0,Pluto TV Family Movie Club
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dc3fc6b9133f500099c7d98.m3u8
+#EXTINF:0,Pluto TV Fantasy & Horror
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-685041d936c9361b1921c26c.m3u8
+#EXTINF:0,Pluto TV Food
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8
+#EXTINF:0,Pluto TV History
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d4af1803e7983b391d73b13.m3u8
+#EXTINF:0,Pluto TV Horror
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-612cda102f5f18000705e0bf.m3u8
+#EXTINF:0,Pluto TV Investigation
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63808dc806aa4700075f319a.m3u8
+#EXTINF:0,Pluto TV Kids
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8
+#EXTINF:0,Pluto TV Movies
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ad8d3a31b95267e225e4e09.m3u8
+#EXTINF:0,Pluto TV Paranormal
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d4af2ffa9506ab29cf38c38.m3u8
+#EXTINF:0,Pluto TV PetrolHeads
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65a7b0814a10d800085ff2df.m3u8
+#EXTINF:0,Pluto TV Reality
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5bd8186d53ed2c6334ea0855.m3u8
+#EXTINF:0,Pluto TV Retro Toons
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
+#EXTINF:0,Pluto TV Sci-Fi
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dc02a44a9518600094273ac.m3u8
+#EXTINF:0,Pluto TV Sci-fi Series
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-619247c34a270700077c8415.m3u8
+#EXTINF:0,Pluto TV Science
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8
+#EXTINF:0,Pluto TV Sherlock
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dc2c00abfed110009d97243.m3u8
+#EXTINF:0,Pluto TV Sitcoms
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62f53dc6ee9a0400071dc22b.m3u8
+#EXTINF:0,Pluto TV Snooker 900 (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-655b7cbb2c46f300086f0afa.m3u8
+#EXTINF:0,Pluto TV Space
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8
+#EXTINF:0,Pluto TV Thrillers
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8
+#EXTINF:0,Pluto TV Tough Jobs
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8
+#EXTINF:0,Pluto TV Westerns
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
+#EXTINF:25,Pokémon
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6683cd71a1d7ad000866ec6a.m3u8
+#EXTINF:60,Qwest TV Jazz & Beyond (1080p)
+#EXTVLCOPT:network-caching=1000
+https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8
+#EXTINF:36,Rakuten Top Movies UK (1080p)
+#EXTVLCOPT:network-caching=1000
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+#EXTINF:36,Rakuten TV Action Movies UK (1080p)
+#EXTVLCOPT:network-caching=1000
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:0,Rakuten TV Comedy Movies UK (1080p)
+#EXTVLCOPT:network-caching=1000
+https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+#EXTINF:0,Rakuten TV Drama Movies UK (1080p)
+#EXTVLCOPT:network-caching=1000
+https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+#EXTINF:0,Rakuten TV Family Movies UK (1080p)
+#EXTVLCOPT:network-caching=1000
+https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
+#EXTINF:54,Red Bull TV UK (1080p)
+#EXTVLCOPT:network-caching=1000
+https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:25,Rugby Pass TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66f137cb483d460008ece053.m3u8
+#EXTINF:25,Sabrina The Teenage Witch
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66276091cee0d900085fe053.m3u8
+#EXTINF:25,Sensing Murder
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5e9ed47c26ebb000074af566.m3u8
+#EXTINF:60,So… Real (720p)
+#EXTVLCOPT:network-caching=1000
+https://all3media-soreal-1-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:60,Spark TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:60,Strongman (720p)
+#EXTVLCOPT:network-caching=1000
+https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:60,Tastemade (1080p)
+#EXTVLCOPT:network-caching=1000
+https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:60,The Chat Show Channel (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
+#EXTINF:60,The Graham Norton Show (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:25,The Nanny
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6391cef9edb23c0008598cee.m3u8
+#EXTINF:25,The New Detectives
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5e393d5c696b3b0009775c8b.m3u8
+#EXTINF:60,The Pet Collective (720p)
+#EXTVLCOPT:network-caching=1000
+https://the-pet-collective-international-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:25,Top Gear (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-636adc255bcf470007d6e0e2.m3u8
+#EXTINF:0,Totally Turtles
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-656ef4af4261ca00083c8f37.m3u8
+#EXTINF:26,Totalmusic (1080p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:33,Totalmusic 80s (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:33,Totalmusic 2000s (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:33,Totalmusic Concerts (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:32,Totalmusic Dance (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:6,Trace UK (1080p)
+#EXTVLCOPT:network-caching=1000
+https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8
+#EXTINF:60,True Crime UK (1080p)
+#EXTVLCOPT:network-caching=1000
+https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8
+#EXTINF:60,Undercover Boss (720p)
+#EXTVLCOPT:network-caching=1000
+https://all3media-international-undercoverboss-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:25,Unsolved Mysteries
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5bd05b4694d45d266bc951f2.m3u8
+#EXTINF:54,Wonder (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:60,XITE Hits UK (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
+#EXTINF:25,00s Replay
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
+#EXTINF:0,48 Hours (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
+#EXTINF:0,70s Cinema
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
+#EXTINF:0,80s Rewind
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
+#EXTINF:0,90s Throwback
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
+#EXTINF:0,A&E (720p)
+#EXTVLCOPT:network-caching=1000
+http://23.239.31.26:8989/aande/index.m3u8
+#EXTINF:60,ABC 5 Boston MA (WCVB) (720p)
+#EXTVLCOPT:network-caching=1000
+https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
+#EXTINF:60,Ace TV (480p)
+#EXTVLCOPT:network-caching=1000
+https://c.streamhoster.com/link/hls/W5s3fS/inLo5pcsHjo/iqg9wps0m1x_5/playlist.m3u8
+#EXTINF:70,AKC TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
+#EXTINF:115,AKC TV Meet The Breeds
+#EXTVLCOPT:network-caching=1000
+https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
+#EXTINF:111,AKC TV Puppies 24/7
+#EXTVLCOPT:network-caching=1000
+https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
+#EXTINF:39,AMC (720p)
+#EXTVLCOPT:network-caching=1000
+http://23.239.31.26:8989/amc/index.m3u8
+#EXTINF:60,AMC Absolute Reality
+#EXTVLCOPT:network-caching=1000
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:48,AMC HD
+#EXTVLCOPT:network-caching=1000
+http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
+#EXTINF:25,America's Next Top Model
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-68757c45759366af05b3b199.m3u8
+#EXTINF:25,America's Test Kitchen (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8
+#EXTINF:41,American Horrors (480p)
+#EXTVLCOPT:network-caching=1000
+http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+#EXTINF:59,Anger Management Channel (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
+#EXTINF:25,ANIME x HIDIVE
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8
+#EXTINF:59,Are We There Yet? (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8
+#EXTINF:60,Artflix Movie Classics (720p)
+#EXTVLCOPT:network-caching=1000
+https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:57,Autentic History (1080p)
+#EXTVLCOPT:network-caching=1000
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+#EXTINF:60,Autentic Travel (1080p)
+#EXTVLCOPT:network-caching=1000
+https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
+#EXTINF:60,Bark TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://bbb-barkt-streamstak.otteravision.com/bbb/barkt/barkt.m3u8
+#EXTINF:0,Battlestar Galactica
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8
+#EXTINF:40,BBC America (720p)
+#EXTVLCOPT:network-caching=1000
+http://23.239.31.26:8989/bbcamerica/index.m3u8
+#EXTINF:60,BBC Doctor Who Classic (1080p)
+#EXTVLCOPT:network-caching=1000
+https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:60,BBC Earth (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:0,BBC Food (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8
+#EXTINF:0,BBC Home & Garden (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d11r33s5i066xh.cloudfront.net/playlist.m3u8
+#EXTINF:26,Best of Dr. Phil
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-666815f24b9fb400083f7e31.m3u8
+#EXTINF:25,BET Cinema
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
+#EXTINF:0,BET Classics
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8
+#EXTINF:25,BET Comedy Movies
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8
+#EXTINF:25,BET Pluto TV
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8
+#EXTINF:0,BET Throwbacks
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61326275b3c86a00078e4833.m3u8
+#EXTINF:25,BET Visionaries
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8
+#EXTINF:25,Beverly Hills 90210
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f4d83e0a382c00007bc02e7.m3u8
+#EXTINF:25,Big Brother
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6661f11a41af6400080e90d8.m3u8
+#EXTINF:25,Black Family Sitcoms
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-686d61503484d6073283059d.m3u8
+#EXTINF:25,Black Ink Crew
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d51e2bceca5b4b2c0e06c50.m3u8
+#EXTINF:60,Bloomberg Originals (1080p)
+#EXTVLCOPT:network-caching=1000
+https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
+#EXTINF:24,Bounce (720p)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+#EXTINF:54,Bounce XL (1080p)
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
+#EXTINF:24,Bravo (720p)
+#EXTVLCOPT:network-caching=1000
+http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:60,BritBox Mysteries (1080p)
+#EXTVLCOPT:network-caching=1000
+https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
+#EXTINF:21,CBS (1080p)
+#EXTVLCOPT:network-caching=1000
+http://stream.cammonitorplus.net/1783/index.m3u8
+#EXTINF:25,CBS News 24/7 (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
+#EXTINF:60,Charge! (1080p)
+#EXTVLCOPT:network-caching=1000
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+#EXTINF:20,Cinemax Classics (1080p)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:20,Cinemax Hits (1080p)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:0,CinePride (720p)
+#EXTVLCOPT:network-caching=1000
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2223
+#EXTINF:60,Cold Case Files (1080p)
+#EXTVLCOPT:network-caching=1000
+https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8
+#EXTINF:23,Comedy Central (1080p)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:25,Comedy Central Animation
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
+#EXTINF:60,Comet (1080p)
+#EXTVLCOPT:network-caching=1000
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+#EXTINF:60,Cops (720p)
+#EXTVLCOPT:network-caching=1000
+https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:54,Court TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+#EXTINF:25,Crime 360 (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-657880c46e4f6a00087404d0.m3u8
+#EXTINF:20,Crime + Investigation (720p)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
+#EXTINF:25,Crunchyroll (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
+#EXTINF:0,CSI
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
+#EXTINF:0,CSI: Miami
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62f54c11b3af68000702c304.m3u8
+#EXTINF:0,CSI: NY
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62f54c6439183b000769fb8f.m3u8
+#EXTINF:60,Dark Matter TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
+#EXTINF:120,Dateline 24/7 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d1si3n1st4nkgb.cloudfront.net/10502/88896029/hls/master.m3u8?ads.xumo_channelId=88896029
+#EXTINF:60,Deal or No Deal (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg00627-banijaygroup-dealornodeal-samsungau-si7xg.amagi.tv/playlist/amg00627-banijaygroup-dealornodeal-samsungau/playlist.m3u8
+#EXTINF:8,Disney Junior (720p)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+#EXTINF:8,Disney XD (720p)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:60,Documentary+ (1080p)
+#EXTVLCOPT:network-caching=1000
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+#EXTINF:24,E! (1080p)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:114,E! Keeping Up (1080p)
+#EXTVLCOPT:network-caching=1000
+https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8
+#EXTINF:0,Ebony TV by Lionsgate (1080p)
+#EXTVLCOPT:network-caching=1000
+https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
+#EXTINF:60,Entertainment Tonight (1080p)
+#EXTVLCOPT:network-caching=1000
+https://enterbcef94b.airspace-cdn.cbsivideo.com/master.m3u8
+#EXTINF:60,Fear Factor (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
+#EXTINF:59,FilmRise Anime (720p)
+#EXTVLCOPT:network-caching=1000
+https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8
+#EXTINF:36,Fox News Channel (720p)
+#EXTVLCOPT:network-caching=1000
+http://45.190.28.50/FOX_NEWS/index.m3u8
+#EXTINF:80,Fox Weather (720p)
+#EXTVLCOPT:network-caching=1000
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:0,FX (1080p)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:0,FX Movie Channel HD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8
+#EXTINF:22,FXX (1080p)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+#EXTINF:25,Garfield and Friends
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8
+#EXTINF:65,TRUELIVE
+#EXTVLCOPT:network-caching=1000
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+#EXTINF:20,Hallmark Channel (1080p)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+#EXTINF:59,Hallmark Movies & More (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+#EXTINF:0,Haunt TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
+#EXTINF:55,HBO Hits (720p)
+#EXTVLCOPT:network-caching=1000
+http://tvsen7.aynascope.net/hbo2/index.m3u8
+#EXTINF:36,HBO Hits East HD (720p)
+#EXTVLCOPT:network-caching=1000
+http://4.30.180.36:8420/hbo2/index.m3u8?token=test
+#EXTINF:24,HBO Movies (720p)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:54,History Hit (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0,Homeful (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg00090-blueantcanada-amg00090c4-samsung-au-819.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungau/playlist.m3u8
+#EXTINF:0,I Love Lucy
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8
+#EXTINF:60,Impossible Quiz Show (1080p)
+#EXTVLCOPT:network-caching=1000
+https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8
+#EXTINF:60,INWILD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
+#EXTINF:25,Iron Chef
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6582f8dadfed030008e5a93d.m3u8
+#EXTINF:56,Judge Nosey (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg00514-noseybaxterllc-realnosey-cineverse/playlist.m3u8
+#EXTINF:0,Just for Laughs Gags (1080p)
+#EXTVLCOPT:network-caching=1000
+https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
+#EXTINF:90,Law & Crime (720p)
+#EXTVLCOPT:network-caching=1000
+https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
+#EXTINF:12,Lifetime Movies (1080p)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_LMN/index.m3u8
+#EXTINF:54,Love Pets (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8
+#EXTINF:58,Love the Planet (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8
+#EXTINF:60,Made in Hollywood
+#EXTVLCOPT:network-caching=1000
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:25,More True Crime
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8
+#EXTINF:25,More TV Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8
+#EXTINF:25,More TV Sitcoms
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
+#EXTINF:59,MovieSphere (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+#EXTINF:24,MTV (1080p)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:39,MTV2 (720p)
+#EXTVLCOPT:network-caching=1000
+http://198.58.104.90:8989/mtv2/index.m3u8
+#EXTINF:0,MTV Biggest Pop (1080p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
+#EXTINF:0,MTV Flow Latino (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
+#EXTINF:0,MTV Live (720p)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+#EXTINF:0,MTV Spankin' New (1080p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
+#EXTINF:36,MyTime Movie Network (1080p)
+#EXTVLCOPT:network-caching=1000
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+#EXTINF:0,Naruto (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8
+#EXTINF:39,National Geographic HD East (720p)
+#EXTVLCOPT:network-caching=1000
+http://198.58.104.90:8989/natgeo/index.m3u8
+#EXTINF:38,National Geographic Wild HD East (720p)
+#EXTVLCOPT:network-caching=1000
+http://198.58.104.90:8989/natgeowild/index.m3u8
+#EXTINF:47,NBC WTVJ   
+#EXTVLCOPT:network-caching=1000
+http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8
+#EXTINF:25,NFL Channel (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
+#EXTINF:60,NHL Network (1080p)
+#EXTVLCOPT:network-caching=1000
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:24,Nickelodeon (1080p)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:54,OuterSphere (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
+#EXTINF:25,Paramount Movie Channel
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
+#EXTINF:25,Paramount+ Picks
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
+#EXTINF:25,Perry Mason
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6197086891ddd4000739941a.m3u8
+#EXTINF:0,Pluto TV Action
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
+#EXTINF:0,Pluto TV Adventure
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-69d7ebb726eeec84158e28cb.m3u8
+#EXTINF:0,Pluto TV Anime
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
+#EXTINF:0,Pluto TV Anime Movies
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8
+#EXTINF:0,Pluto TV Backcountry
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5cabdf1437b88b26947346b2.m3u8
+#EXTINF:0,Pluto TV Cars
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5812b3a4249444e05d09cc46.m3u8
+#EXTINF:0,Pluto TV Comedy
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5a4d3a00ad95e4718ae8d8db.m3u8
+#EXTINF:0,Pluto TV Competition
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8
+#EXTINF:0,Pluto TV Crime Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f31fd1b4c510e00071c3103.m3u8
+#EXTINF:0,Pluto TV Crime Movies
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f4d8594eb979c0007706de7.m3u8
+#EXTINF:0,Pluto TV Cult Films
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8
+#EXTINF:0,Pluto TV Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5b4e92e4694c027be6ecece1.m3u8
+#EXTINF:0,Pluto TV Fantastic
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5b64a245a202b3337f09e51d.m3u8
+#EXTINF:0,Pluto TV Franchise Favorites
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-68fbf8101d26140175db8b58.m3u8
+#EXTINF:0,Pluto TV Game Shows
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6036e7c385749f00075dbd3b.m3u8
+#EXTINF:0,Pluto TV History
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
+#EXTINF:0,Pluto TV Hometown Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-69d6c7befde57cd5ba0160c3.m3u8
+#EXTINF:0,Pluto TV Horror
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
+#EXTINF:0,Pluto TV Icons
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-64b585f84ea480000838e446.m3u8
+#EXTINF:0,Pluto TV Lives
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d8beeb39b5d5d5f8c672530.m3u8
+#EXTINF:0,Pluto TV Military
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5bb3fea0f711fd76340eebff.m3u8
+#EXTINF:0,Pluto TV Novelas
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5cf96c0222df39f1a338d163.m3u8
+#EXTINF:0,Pluto TV Paranormal
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8
+#EXTINF:0,Pluto TV Pride
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-69fa3faab9c0f0d444e64de3.m3u8
+#EXTINF:0,Pluto TV Reaction
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-617b37b361e0fd0008cfd8c5.m3u8
+#EXTINF:0,Pluto TV Romance
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5a66795ef91fef2c7031c599.m3u8
+#EXTINF:0,Pluto TV Sci-Fi
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8
+#EXTINF:0,Pluto TV Science
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
+#EXTINF:0,Pluto TV Spotlight
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ba3fb9c4b078e0f37ad34e8.m3u8
+#EXTINF:0,Pluto TV Staff Picks
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f4d863b98b41000076cd061.m3u8
+#EXTINF:0,Pluto TV Terror
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5c6dc88fcd232425a6e0f06e.m3u8
+#EXTINF:0,Pluto TV Thrillers
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5b4e69e08291147bd04a9fd7.m3u8
+#EXTINF:0,Pluto TV Trending Now
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8
+#EXTINF:0,Pluto TV True Crime
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
+#EXTINF:0,Pluto TV Westerns
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
+#EXTINF:0,Portlandia (720p)
+#EXTVLCOPT:network-caching=1000
+https://d1uvnirn6lhs2f.cloudfront.net/playlist.m3u8
+#EXTINF:10,Showtime Family Zone (720p)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+#EXTINF:26,Sitcom Legends
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-633354b63df9700007f6a1b7.m3u8
+#EXTINF:25,Smithsonian Channel Selects
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
+#EXTINF:120,SNL Vault (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017
+#EXTINF:0,Star Trek
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
+#EXTINF:0,Star Trek: Deep Space Nine
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
+#EXTINF:0,Star Trek: The Next Generation
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8
+#EXTINF:0,Star Trek: Voyager
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
+#EXTINF:24,Starz Cinema (720p)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+#EXTINF:24,Starz Comedy (1080p)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+#EXTINF:20,Starz Kids & Family (1080p)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
+#EXTINF:60,Stories by AMC
+#EXTVLCOPT:network-caching=1000
+https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:25,Supernatural Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f24662bebe0f0000767de32.m3u8
+#EXTINF:0,Survivor (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8
+#EXTINF:0,SYFY (720p)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:0,Tastemade (1080p)
+#EXTVLCOPT:network-caching=1000
+https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
+#EXTINF:0,Tastemade Travel (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8
+#EXTINF:25,The Addams Family
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8
+#EXTINF:25,The Amazing Race
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f21e8a6e2f12b000755afdb.m3u8
+#EXTINF:60,The Archive (1080p)
+#EXTVLCOPT:network-caching=1000
+https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u8
+#EXTINF:0,The Bob Ross Channel (720p)
+#EXTVLCOPT:network-caching=1000
+https://aegis-cloudfront-1.tubi.video/45301c94-0d40-4cbb-b342-f5dc7949d76c/playlist.m3u8
+#EXTINF:0,The Country Network (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:35,The Design Network (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:36,The Jamie Oliver Channel (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8
+#EXTINF:0,The Judge Judy Channel (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6283d51144ad8f0007fa382d.m3u8
+#EXTINF:60,The Nest (1080p)
+#EXTVLCOPT:network-caching=1000
+https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8
+#EXTINF:0,The Twilight Zone
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8
+#EXTINF:25,Tiny House Nation (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6540ff4f7312a40008297b59.m3u8
+#EXTINF:60,TMZ (720p)
+#EXTVLCOPT:network-caching=1000
+https://aegis-cloudfront-1.tubi.video/57c1fa3c-566b-4998-b6de-d6de67031d99/index.m3u8
+#EXTINF:0,Tom And Jerry (720p)
+#EXTVLCOPT:network-caching=1000
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:0,True Crime Network+ (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,True Crime Now (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg00376-magellan-amg00376c12-samsung-au-1725.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowaunzin-samsungau/playlist.m3u8
+#EXTINF:60,True History (720p)
+#EXTVLCOPT:network-caching=1000
+https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
+#EXTINF:20,TVS Comedy Network (720p)
+#EXTVLCOPT:network-caching=1000
+https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8
+#EXTINF:0,TVS Hollywood History (582p)
+#EXTVLCOPT:network-caching=1000
+https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
+#EXTINF:0,TVS Mainstreet (360p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://rpn.bozztv.com/gusa/gusa-tvsmainst/index.m3u8
+#EXTINF:0,TVS Pet Parade Network (360p)
+#EXTVLCOPT:network-caching=1000
+https://rpn.bozztv.com/gusa/gusa-petparadenetwork/index.m3u8
+#EXTINF:0,TVS Quiz Show Network (720p)
+#EXTVLCOPT:network-caching=1000
+https://rpn.bozztv.com/gusa/gusa-tvsgameshow/index.m3u8
+#EXTINF:0,TVS Television Network (480p)
+#EXTVLCOPT:network-caching=1000
+https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8
+#EXTINF:0,TVS Women Sports (720p)
+#EXTVLCOPT:network-caching=1000
+https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
+#EXTINF:60,Unidentified (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d3ify425qsio2d.cloudfront.net/playlist.m3u8
+#EXTINF:24, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Comedy;Movies;Series" - Universal Comedy (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8
+#EXTINF:24, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Series" - Universal Crime (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcrime/playlist.m3u8
+#EXTINF:47, USA HD
+#EXTVLCOPT:network-caching=1000
+http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
+#EXTINF:59,USA Today (1080p)
+#EXTVLCOPT:network-caching=1000
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+#EXTINF:59,Vevo Latino (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:25,Vevo True School Hip-Hop
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
+#EXTINF:25,VH1 Queens of Reality
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
+#EXTINF:24,VICE TV (1080p)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+#EXTINF:21,We TV (720p)
+#EXTVLCOPT:network-caching=1000
+http://170.254.17.2/WE_TV/index.m3u8
+#EXTINF:60,WeatherNation (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
+#EXTINF:54,WeatherSpy (720p)
+#EXTVLCOPT:network-caching=1000
+https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8
+#EXTINF:25,Wild 'N Out
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d48678d34ceb37d3c458a55.m3u8
+#EXTINF:0,Women's Sports Network (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
+#EXTINF:54,XITE 90's Throwback (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
+#EXTINF:0,XITE Rock x Metal (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
+#EXTINF:20,Yo! MTV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
+#EXTINF:54,Young Hollywood (720p)
+#EXTVLCOPT:network-caching=1000
+https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:0,Yu-Gi-Oh! (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
